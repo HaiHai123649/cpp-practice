@@ -1,0 +1,13 @@
+# 忽略 CLion 的配置文件夹
+.idea/
+cmake-build-debug/
+
+# 忽略编译出来的垃圾
+*.exe
+*.o
+*.obj
+*.dll
+
+# 忽略系统垃圾
+.DS_Store
+Thumbs.db
